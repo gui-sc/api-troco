@@ -13,3 +13,22 @@ Além da recursividade, também testei meus conhecimentos com express.js, desabi
 ## Tecnologias
 
 Utilizei NodeJS, e precisei das bibliotecas Express.js e Decimal.js, como principais, para subir uma API e também para fazer os cálculos exatos das operações.
+
+## Como testar
+
+1. Clone o repositório 
+```bash
+git clone https://github.com/gui-sc/api-troco
+```
+2. Instale as dependências
+```bash
+npm install | yarn add
+```
+3. Rode a aplicação
+```bash
+npm run dev
+```
+4. Abra no navegador e confira a documentação
+```link
+http://localhost:3000
+```
